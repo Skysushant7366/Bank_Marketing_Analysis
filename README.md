@@ -4,6 +4,10 @@ A complete, end-to-end analysis of a bank’s direct marketing campaign.
 Built with Python for exploratory data analysis and Power BI for interactive storytelling.
 
 ---
+### Hi, I’m Sushant—a data analyst passionate about turning insights into impact.  
+This project blends Python and Power BI to transform raw marketing data into a strategic business case.
+
+---
 
 ## 🔍 Project Overview
 
