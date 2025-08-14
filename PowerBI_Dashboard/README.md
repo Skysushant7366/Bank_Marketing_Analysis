@@ -49,8 +49,8 @@ Each measure is defined in the `Model` pane under **New Measure** and optimized 
 
 1. Clone or download this repo.  
 2. Open `bank_marketing_dashboard.pbix` in Power BI Desktop.  
-3. Navigate the three report pages:  
-   1. **Insights & Narrative**  
-   2. **Storytelling & Summary**  
-   3. **Strategic Overview**  
-4. Interact with slicers (age group, job type, education level, month) and hover over visuals for tooltips.  
+3. Navigate the three report pages:
+   1. **BankMarketing Analysis Dashboard**  
+   2. **Insights & Narrative**  
+   3. **Storytelling & Summary**  
+5. Interact with slicers (age group, job type, education level, month) and hover over visuals for tooltips.  
