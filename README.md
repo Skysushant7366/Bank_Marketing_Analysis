@@ -23,6 +23,7 @@ This repo explores how a bank’s marketing outreach converts into term-deposit 
 ├── PowerBI_Dashboard/  
 │   ├── bank_marketing_dashboard.pbix  
 │   ├── README.md              ← instructions and screenshot previews  
+│   ├── docs/                  ← PDF summary for recruiters  
 │   └── images/                ← dashboard page PNGs  
 
 ├── bankmarketing.csv          ← original campaign data  
@@ -52,8 +53,17 @@ Previews and usage details in `PowerBI_Dashboard/README.md`.
 
 ---
 
+## 📄 PDF Summary
+
+For a quick offline overview of the dashboard and key findings:  
+👉 [Dashboard Overview PDF](PowerBI_Dashboard/docs/Dashboard_Overview.pdf)
+
+Perfect for recruiters and decision-makers who want a concise, one-pager summary of the strategic insights.
+
+---
+
 ## 🚀 Getting Started
 
-1. Clone this repo:  
+1. **Clone this repo**  
    ```bash
    git clone https://github.com/Skysushant7366/Bank_Marketing_Analysis.git
